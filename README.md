@@ -3,4 +3,5 @@
 Olá, Bem vindo ao meu livro de receitas:wave:
 
 - Mousse de Maracujá
+- Pavê
 
